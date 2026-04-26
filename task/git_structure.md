@@ -1,6 +1,5 @@
 # Файловая структура git-репозитория
 
-\```
 /
     README.md
     docs/
@@ -24,6 +23,3 @@
         README.md
         report_template.md
     .gitignore
-\```
-
-# Описание структуры git-репозитория
