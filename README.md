@@ -28,5 +28,3 @@
 ## Период проведения
 
 С 03 февраля 2025 г. по 24 мая 2025 г.
-
-https://yandex.ru/images/search?cbir_id=1039125%2FZGMo3O4VJGrqDNgddhhoYw1830&pos=0&rpt=imageview&img_url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D1000%2Cheight%3D500%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252Fh2f05u6x4xlo32b405e2.jpeg&cbir_page=similar&lr=10716&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F1039125%2FZGMo3O4VJGrqDNgddhhoYw1830%2Forig
