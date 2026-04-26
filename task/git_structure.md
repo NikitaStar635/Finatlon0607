@@ -1,14 +1,20 @@
-# Структура репозитория
-Finatlon0607/
-├── docs/
-│ └── README.md
-├── reports/
-│ ├── README.md
-│ └── practice_report_template.docx
-├── site/
-│ └── index.html
-├── task/
-│ ├── README.md
-│ ├── git_structure.md
-│ └── terms.md
-└── .gitignore
+/
+README.md
+docs/
+README.md
+practice_documentation.md
+reports/
+README.md
+report.pdf
+site/
+index.html
+css/
+style.css
+images/
+logo.png
+src/
+main.py
+task/
+README.md
+report_template.md
+.gitignore
