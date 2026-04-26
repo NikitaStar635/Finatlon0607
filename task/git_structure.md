@@ -1,13 +1,10 @@
 # Файловая структура git-репозитория    
 /    
-├── README.md
-├── docs/    
+├── README.md    ├── docs/    
 │   ├── README.md    
-│   └── practice_documentation.md    
-├── reports/    
+│   └── practice_documentation.md        ├── reports/    
 │   ├── README.md    
-│   └── report.pdf    
-├── site/    
+│   └── report.pdf        ├── site/    
 │   ├── index.html    
 │   ├── css/    
 │   │   └── style.css    
@@ -15,8 +12,7 @@
 │   │   └── logo.png    
 │   └── src/    
 │       ├── main.py    
-│       └── ...    
-├── task/    
+│       └── ...        ├── task/    
 │   ├── README.md    
 │   └── report_template.md    
 └── .gitignore    
