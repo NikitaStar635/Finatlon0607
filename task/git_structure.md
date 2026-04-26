@@ -3,21 +3,14 @@
 /   
 ├── README.md   
 ├── docs/   
-│   ├── README.md   
-│   └── practice_documentation.md   
+│   └── README.md   
 ├── reports/   
 │   ├── README.md   
-│   └── report.pdf   
+│   └── practice_report_template.docx   
 ├── site/   
-│   ├── index.html   
-│   ├── css/   
-│   │   └── style.css   
-│   ├── images/   
-│   │   └── logo.png   
-│   └── src/   
-│       ├── main.py   
-│       └── ...   
+│   └── index.html   
 ├── task/   
 │   ├── README.md   
-│   └── report_template.md   
+│   ├── git_structure.md   
+│   └── terms.md   
 └── .gitignore   
