@@ -4,6 +4,7 @@
 
 В первую очередь мы искали подходящий проект для его усовершенствования по запросу web-development is:public [фото 1](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/1.png)
 И выбрали проект у которого главная цель - это помогать делать сайты, которые нормально выглядят на всех устройствах [фото 2](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/2.png)
+
 Мы скопировали его и открыли через Visual Studio 2022, чтобы усовершенствовать
 
 ### Краткая информация о проекте Responsively App
