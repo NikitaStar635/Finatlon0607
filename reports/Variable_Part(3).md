@@ -25,22 +25,22 @@
 
 4. Далее мы добавили раздел “Quick Start” [фото 9](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/9.png), [фото 10](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/10.png)
 Это необходимо, так как до внесения изменений пользователю приходилось самостоятельно искать информацию о запуске проекта (команды установки, запуск сервера и т.д.), что: увеличивало время входа в проект, затрудняло работу новичкам, делало документацию менее структурированной. Добавление “Quick Start” решает эту проблему, предоставляя пошаговую инструкцию:
-    1. Клонирование репозитория
+    I. Клонирование репозитория
     Добавлена команда для загрузки проекта на локальный компьютер:
        ```bash
-       git clone https://github.com/responsively-org/responsively-app.git
-    2. Переход в папку проекта
+       git clone https://github.com/responsively-org/responsively-app.git```
+    II. Переход в папку проекта
     Добавлена инструкция для перехода в директорию проекта:
        ```bash
-       cd responsively-app
-    3. Установка зависимостей
+       cd responsively-app```
+    III. Установка зависимостей
     Добавлен шаг установки всех необходимых библиотек:
        ```bash
-        npm install
-    4. Запуск проекта
+        npm install```
+    IV. Запуск проекта
     Добавлена команда запуска приложения в режиме разработки:
        ```bash
-       npm start
+       npm start```
 В результате вклад улучшил качество документации проекта, повысил её читаемость и сделал процесс запуска более доступным для пользователей с любым уровнем подготовки
 
 5. Последним шагом мы добавили раздел “Troubleshooting” [фото 11](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/11.png), [фото 12](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/12.png), [фото 13](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/13.png)
