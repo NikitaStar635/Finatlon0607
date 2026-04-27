@@ -7,7 +7,7 @@
 
 
 ## Контент-план:
-
+(https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/Контент-план.docx)
 ## Телеграмм сообщество:
 
 ## Ссылка на ресурсы: 
