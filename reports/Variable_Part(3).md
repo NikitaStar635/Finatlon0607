@@ -43,7 +43,7 @@
     IV. Запуск проекта
     Добавлена команда запуска приложения в режиме разработки:    
        ```
-       npm start```
+       npm start```    
 В результате вклад улучшил качество документации проекта, повысил её читаемость и сделал процесс запуска более доступным для пользователей с любым уровнем подготовки
 
 6. Последним шагом мы добавили раздел “Troubleshooting” [фото 11](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/11.png), [фото 12](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/12.png), [фото 13](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/13.png)
