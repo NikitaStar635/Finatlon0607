@@ -10,6 +10,7 @@
 https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/Контент-план.docx
 
 ## ВК сообщество:
+https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/IMG_7451.png
 https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/IMG_7452.png
 
 ## Ссылка на ресурсы: 
