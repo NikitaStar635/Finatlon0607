@@ -10,4 +10,6 @@
 
 ## Телеграмм и ВК сообщества:
 
-## Ссылка на ресурсы: https://t.me/finatlonn https://vk.com/finatlon
+## Ссылка на ресурсы: 
+https://t.me/finatlonn 
+https://vk.com/finatlon
