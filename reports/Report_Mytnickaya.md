@@ -8,8 +8,10 @@
 
 ## Контент-план:
 https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/Контент-план.docx
+
 ## Телеграмм сообщество:
-(docs/IMG_7453.png)
+https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/IMG_7453.png
+
 ## Ссылка на ресурсы: 
 https://t.me/finatlonn 
 https://vk.com/finatlon
