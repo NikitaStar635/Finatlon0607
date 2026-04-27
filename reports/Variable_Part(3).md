@@ -32,18 +32,18 @@
    
     II. Переход в папку проекта
     Добавлена инструкция для перехода в директорию проекта:
-       ```bash
-       cd responsively-app
+       ```
+       cd responsively-app```
 
     III. Установка зависимостей
     Добавлен шаг установки всех необходимых библиотек:
-       ```bash
-        npm install
+       ```
+        npm install```
    
     IV. Запуск проекта
     Добавлена команда запуска приложения в режиме разработки:
-       ```bash
-       npm start
+       ```
+       npm start```
 В результате вклад улучшил качество документации проекта, повысил её читаемость и сделал процесс запуска более доступным для пользователей с любым уровнем подготовки
 
 6. Последним шагом мы добавили раздел “Troubleshooting” [фото 11](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/11.png), [фото 12](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/12.png), [фото 13](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/13.png)
