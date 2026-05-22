@@ -1,5 +1,5 @@
 # Отчет по практике
 ## Формат docx:
-https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/1.docx
+[Docx](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/отчет%20практика.docx)
 ## Формат pdf:
-https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/1.pdf
+[PDF](https://github.com/NikitaStar635/Finatlon0607/blob/main/docs/отчет%20практика.pdf)
